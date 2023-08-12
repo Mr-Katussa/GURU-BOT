@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'Dhav MD BOT'
 global.premium = 'true'
-global.packname = 'DHAV' 
-global.author = '@Asliguru' 
+global.packname = 'DHAVx444' 
+global.author = '@Dhav_md' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
@@ -63,8 +63,8 @@ global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
-global.error = '❌' 
-global.xmoji = '🔥' 
+global.error = '🥺' 
+global.xmoji = '😒' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
